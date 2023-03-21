@@ -11,13 +11,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Unix, Shell & Git
 
-- [ ] dia 01: _Unix & Shell_
-- [ ] dia 02: _Git - o que é e para que serve_
-- [ ] dia 03: _Dia 03: Git & GitHub - Entendendo os comandos_
+- [x] dia 01: _Unix & Shell_
+- [x] dia 02: _Git - o que é e para que serve_
+- [x] dia 03: _Dia 03: Git & GitHub - Entendendo os comandos_
 
 ##### Seção 2: Introdução à HTML & CSS
 
-- [ ] dia 01: _HTML & CSS - Estruturas de página_
+- [x] dia 01: _HTML & CSS - Estruturas de página_
 - [ ] dia 02: _HTML & CSS - Primeiros passos em CSS_
 - [ ] dia 03: _HTML & CSS - Seletores e posicionamento_
 
