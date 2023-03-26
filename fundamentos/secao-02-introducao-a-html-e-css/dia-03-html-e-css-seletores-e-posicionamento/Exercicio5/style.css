@@ -1,0 +1,59 @@
+ol .par{
+    color: green;
+    background-color: yellow;
+}
+
+ol .impar {
+    text-transform: uppercase;
+    background-color: yellow;
+}
+
+h3 {
+    color: red;
+}
+
+h1 em {
+    font-size: 40px;
+    border: 1px solid black;
+    color: red;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+#linguagens li:nth-child(-n + 3){
+    color: rgb(14, 82, 145);
+}
+
+.java {
+    background-color: pink;
+}
+
+#aliados li a:hover{
+    font-weight: bolder;
+}
+
+li a[href*="overflow"]:hover {
+    color:orange;
+}
+
+li a[href*="w3"]:hover {
+    color: greenyellow;
+}
+
+li a[href*="mozilla"]:hover {
+    color:black;
+}
+
+li a[href*="devdocs"]:hover {
+    color:yellow;
+}
+
+li a[href*="betrybe"]:hover {
+    color:green;
+}
