@@ -13,11 +13,11 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 1.3 - Git & GitHub - Entendendo os comandos
 
 ##### Seção 2: [Introdução à HTML & CSS](https://github.com/adrianoag/trybe-exercicios/tree/main/fundamentos/secao-02-introducao-a-html-e-css)
-- [ ] 2.1 - Introdução à HTML & CSS
-- [ ] 2.1 - HTML & CSS - Estruturas de página
-- [ ] 2.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 2.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 2.4 - HTML Semântico
+- [x] 2.1 - Introdução à HTML & CSS
+- [x] 2.1 - HTML & CSS - Estruturas de página
+- [x] 2.2 - HTML & CSS - Primeiros passos em CSS
+- [x] 2.3 - HTML & CSS - Seletores e posicionamento
+- [x] 2.4 - HTML Semântico
 - [ ] 2.5 - Projeto - Lessons Learned
 
 ##### Seção 3: [Introdução à Javascript](https://github.com/adrianoag/trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
