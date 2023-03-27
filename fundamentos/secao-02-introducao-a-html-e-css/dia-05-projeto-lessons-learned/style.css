@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(123, 321, 213);
+}
+
+#cabecalho {
+    background-color: blueviolet;
+    top:0;
+    left:0;
+    position: fixed;
+    width:100%;
+}
+
+#minha_foto {
+    margin-top: 100px;
+}
+
+#Trybe {
+    position: relative;
+    top:10px;
+    left:10px;
+}
