@@ -18,7 +18,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 2.2 - HTML & CSS - Primeiros passos em CSS
 - [x] 2.3 - HTML & CSS - Seletores e posicionamento
 - [x] 2.4 - HTML Semântico
-- [ ] 2.5 - Projeto - Lessons Learned
+- [x] 2.5 - Projeto - Lessons Learned
 
 ##### Seção 3: [Introdução à Javascript](https://github.com/adrianoag/trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
 - [ ] 3.1 - Introdução à Javascript
